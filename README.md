@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AidanFarhi | Data Engineer @ JPMorgan Chase & Co.
+- 👋 Hi, I’m @AidanFarhi | Big Data/Cloud Engineer @ JPMorgan Chase & Co.
 - 👀 I’m interested in Data Engineering, Software Engineering, Cloud Engineering, Machine Learning, IOT, and Cybersecurity.
 - 🌱 I’m currently learning Go, SQL, and AWS.
 
