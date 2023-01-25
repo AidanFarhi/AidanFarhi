@@ -1,6 +1,6 @@
 - Hi, I’m @AidanFarhi - Big Data/Cloud Engineer @ JPMorgan Chase & Co.
-- I’m interested in Data Engineering, Cloud, and Machine Learning.
-- I’m currently learning C, Go, and AWS.
+- I’m interested in Software Engineering and Machine Learning.
+- I’m currently learning Golang.
 - Ping me on LinkedIn!
 
 <!---
