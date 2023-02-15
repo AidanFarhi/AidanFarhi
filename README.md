@@ -1,6 +1,4 @@
 - Hi, I’m @AidanFarhi - Big Data/Cloud Engineer @ JPMorgan Chase & Co.
-- I’m interested in Data Engineering.
-- I’m currently learning Scala, Spark, DBT, and AWS.
 - Ping me on LinkedIn!
 
 <!---
