@@ -1,4 +1,4 @@
-- Hi, I’m @AidanFarhi - Data Engineer @ JPMorgan Chase & Co.
+- Hi, I’m @AidanFarhi - Big Data/Cloud Engineer @ JPMorgan Chase & Co.
 - Ping me on LinkedIn!
 
 <!---
