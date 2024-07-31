@@ -1,5 +1,5 @@
 - Hi, I’m @AidanFarhi -> Data Engineer @ JPMorgan Chase & Co.
-- Stuff I've done     -> Data, Back-End, Front-End, and Cloud Infrastructure Engineering.
+- Skills              -> Data, Back-End, and Front-End Engineering in that order.
 - Currently Learning  -> Go
 
 <!---
