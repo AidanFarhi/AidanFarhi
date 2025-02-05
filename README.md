@@ -1,5 +1,5 @@
-- Hi, I’m @AidanFarhi -> Data Engineer @ JPMorgan Chase & Co.
-- Skills              -> Data Engineering & Full-Stack.
+- Hi, I’m @AidanFarhi -> Software Engineer @ JPMorgan Chase & Co.
+- Skills              -> Data & Back-end engineering.
 - Currently Learning  -> Go
 
 <!---
